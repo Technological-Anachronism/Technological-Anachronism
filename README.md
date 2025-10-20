@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi!
+I love coding and silly little machines
+Im Studying Computer Science at University of Galway.
 <!--
 **Technological-Anachronism/Technological-Anachronism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
